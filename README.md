@@ -561,12 +561,10 @@ O sistema foi projetado com os seguintes princípios de sustentabilidade:
 
 ---
 
-**Responsável Técnico**:   
+**Responsável Técnico**:  Leonardo Gonçalves
 **Data do Relatório**: 15 de Dezembro de 2025  
 **Versão do Sistema**: 2.0.0  
 
 
 
 ---
-*Documento confidencial - Uso interno apenas*  
-*Copyright © 2025 - Todos os direitos reservados*
